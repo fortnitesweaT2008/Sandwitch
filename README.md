@@ -1,2 +1,1 @@
-# Sandwitch
-RECIPIE FOR A SANDWITCH
+This is a quick recipie for a sandwitch.Made from easily available ingridients.
